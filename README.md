@@ -1,0 +1,2 @@
+# Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
+Smart Sorting using Transfer Learning is an AI-based system that identifies rotten and fresh fruits and vegetables through image classification. It uses pre-trained deep learning models to detect spoilage accurately, enabling automated quality control, reducing food waste, and improving efficiency in markets, farms, and supply chains.
